@@ -1,10 +1,11 @@
 import React from 'react';
-import HelloWorld from './components/HelloWorld'; // Import your component
+import Header from './components/Header';
 
 function App() {
   return (
     <div>
-      <HelloWorld /> {/* Render your component */}
+      <Header />
+      {/* Other components and content */}
     </div>
   );
 }
