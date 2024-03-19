@@ -3,7 +3,7 @@ import axios from 'axios';
 import Navbar from './Navbar';
 import { useNavigate } from 'react-router-dom';
 
-function Registration() {
+function EditProfile() {
     const [formData, setFormData] = useState({
         username: '',
         email: '',
@@ -28,6 +28,7 @@ function Registration() {
             setFormData({ ...formData, [e.target.name]: e.target.value });
         }
     };
+
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
@@ -43,6 +44,7 @@ function Registration() {
                 userData.append('credit_card_expiry', formData.creditCardExpiry);
                 userData.append('credit_card_cvv', formData.creditCardCVV);
             }
+
             const response = await axios.post('http://127.0.0.1:8000/api/register/', userData);
             console.log(response.data); // Response from Django backend
 
@@ -52,11 +54,12 @@ function Registration() {
             console.error('Error:', error);
         }
     };
+
     return (
         <><div /><Navbar />
         
         <div class="registration-form">
-            <h1>User Registration</h1>
+            <h1>Edit Profile</h1>
             <div class="input-list">
                 <input type="text" name="username" placeholder="Username" value={formData.username} onChange={handleChange} />
                 <input type="email" name="email" placeholder="Email" value={formData.email} onChange={handleChange} />
@@ -66,7 +69,7 @@ function Registration() {
                 <input type="file" name="photo" onChange={handleChange} />
                 <div>
                     <label>
-                        Provide Credit Card Details:
+                        Change Credit Card Details:
                         <input
                             type="checkbox"
                             name="provideCreditCardDetails"
@@ -82,11 +85,12 @@ function Registration() {
                     </div>
                 )}
             </div>
-            <button type="submit" onClick={handleSubmit}>Register</button>
+            <button type="submit" onClick={handleSubmit}>Submit Changes</button>
         </div>
-
+        
     </>
         
     );
 }
-export default Registration;
+
+export default EditProfile;
