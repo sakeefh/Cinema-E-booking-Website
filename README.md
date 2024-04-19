@@ -19,7 +19,7 @@ The home page of CinemaVerse showcases movies that are now showing, along with a
 When a user clicks on an individual movie to see its details, they will be presented with the following:
 
 - **Movie Summary, Cast Members, Genre, Runtime, and Current Showtimes** 
-- **YouTube Trailer:**
+- **YouTube Trailer**
 
 <img src="https://github.com/sakeefh/Cinema-E-booking-Website/assets/91638600/a46b2946-7344-4fee-979d-2130e1cebeab" alt="Home Page" width="500" height="auto">
 
