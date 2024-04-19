@@ -8,5 +8,8 @@ Cinema-E-booking-Website is a web application designed for movie enthusiasts to 
 - **Backend:** Django
 - **Database:** MySQL
 
+## Home Page
+- The home page of CinemaVerse showcases movies that are now showing, along with a navigation bar at the top to login and register.
+![Image 18-04-24 at 1 01 AM](https://github.com/sakeefh/Cinema-E-booking-Website/assets/91638600/993c67b3-b8f2-4a20-954e-0a5ffb7481f4)
 
 
