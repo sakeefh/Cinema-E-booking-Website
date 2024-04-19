@@ -26,7 +26,7 @@ When a user clicks on an individual movie to see its details, they will be prese
 
 Users can access this page by clicking on a specific movie from the homepage or search results.
 
-<img src="[https://github.com/sakeefh/Cinema-E-booking-Website/assets/91638600/993c67b3-b8f2-4a20-954e-0a5ffb7481f4](https://github.com/sakeefh/Cinema-E-booking-Website/assets/91638600/a46b2946-7344-4fee-979d-2130e1cebeab)" alt="Home Page" width="500" height="auto">
+<img src="https://github.com/sakeefh/Cinema-E-booking-Website/assets/91638600/a46b2946-7344-4fee-979d-2130e1cebeab" alt="Home Page" width="500" height="auto">
 
 
 
