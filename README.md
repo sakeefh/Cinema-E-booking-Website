@@ -18,10 +18,23 @@ The home page of CinemaVerse showcases movies that are now showing, along with a
 
 When a user clicks on an individual movie to see its details, they will be presented with the following:
 
-- **Movie Summary, Cast Members, Genre, Runtime, and Current Showtimes** 
+- **Movie Summary, Cast Members, and Genre**
+- **Runtime, and Current Showtimes** 
 - **YouTube Trailer**
+  
+<img src="https://github.com/sakeefh/Cinema-E-booking-Website/assets/91638600/a46b2946-7344-4fee-979d-2130e1cebeab" alt="Details Page" width="500" height="auto">
 
-<img src="https://github.com/sakeefh/Cinema-E-booking-Website/assets/91638600/a46b2946-7344-4fee-979d-2130e1cebeab" alt="Home Page" width="500" height="auto">
+## Seat Map 
+
+The user is able to choose from the available seats for their desired showtime
+
+<img src="https://github.com/sakeefh/Cinema-E-booking-Website/assets/91638600/e1d763b8-32a9-4876-852e-d43f87d33c4a" alt="Seat Map" width="500" height="auto">
+
+## Order History
+
+A user that has registered with their own account may manage their booking on the following screen:
+
+<img src="https://github.com/sakeefh/Cinema-E-booking-Website/assets/91638600/8009e675-2ee0-4882-8360-7432c6b2138a" alt="Order History" width="500" height="auto">
 
 
 
