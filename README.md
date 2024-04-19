@@ -4,7 +4,9 @@ Cinema-E-booking-Website is a web application designed for movie enthusiasts to 
 
 ## Technologies Used
 
-- **Frontend:** React.js
+- **Frontend:** Javascript, React.js, Bootstrap
 - **Backend:** Django
 - **Database:** MySQL
+
+
 
