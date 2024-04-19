@@ -4,7 +4,7 @@ This project is a web application designed for movie enthusiasts to browse, book
 
 ## Technologies Used
 
-- **Frontend:** Javascript, React.js, Bootstrap
+- **Frontend:**   `Javascript`, React.js, Bootstrap
 - **Backend:** Django
 - **Database:** MySQL
 
