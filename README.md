@@ -16,15 +16,10 @@ The home page of CinemaVerse showcases movies that are now showing, along with a
 
 ## Movie Details Page
 
-When a user clicks on an individual movie to see its details, they will be presented with various information about the movie including:
+When a user clicks on an individual movie to see its details, they will be presented with the following:
 
-- **Movie Summary:** A brief overview of the movie's plot.
-- **Cast:** List of actors starring in the movie.
-- **Genre:** Category or type of the movie (e.g., Action, Comedy, Drama).
-- **Runtime:** Duration of the movie.
-- **YouTube Trailer:** A link to the movie's trailer on YouTube.
-
-Users can access this page by clicking on a specific movie from the homepage or search results.
+- **Movie Summary, Cast Members, Genre, Runtime, and Current Showtimes** 
+- **YouTube Trailer:**
 
 <img src="https://github.com/sakeefh/Cinema-E-booking-Website/assets/91638600/a46b2946-7344-4fee-979d-2130e1cebeab" alt="Home Page" width="500" height="auto">
 
