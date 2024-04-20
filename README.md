@@ -1,4 +1,4 @@
-# Cinema-E-booking-Website 🎞️
+# Cinema-E-booking-Website 📽️
 
 This project is a full-stack web application designed for movie enthusiasts to browse, book tickets, and manage their bookings securely online. It provides a user-friendly interface for users to search for movies, view showtimes, and reserve seats conveniently from their devices. The tech stack used for this project was `React.js`, `Bootstrap`, `Django` and `MySQL`
 
