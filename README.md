@@ -5,10 +5,10 @@ This project is a full-stack web application designed for movie enthusiasts to b
 ## Key Features
 
 ### For Users:
-- **Browsing Movies:** Easily browse through our extensive collection of movies, filtering by genre, release date, or popularity.
+- **Browsing Movies:** Easily browse through our extensive collection of movies, filtering by genre or name.
 - **Viewing Showtimes:** Check real-time showtimes for each movie, ensuring you never miss out on your favorite films.
 - **Reserving Seats:** Select preferred seats in the theater.
-- **Forget Password:** Reset your password securely via email in case you forget it.
+- **Forget Password Function:** Reset your password securely via email in case you forget it.
 
 ### For Administrators:
 - **Managing Promo Codes:** Add, edit, or remove promo codes to offer discounts and special offers to users.
