@@ -6,13 +6,12 @@ This project is a full-stack web application designed for movie enthusiasts to b
 
 ### For Users:
 - **Browsing Movies:** Easily browse through our extensive collection of movies, filtering by genre or name.
-- **Viewing Showtimes:** Check real-time showtimes for each movie, ensuring you never miss out on your favorite films.
-- **Reserving Seats:** Select preferred seats in the theater.
+- **View and Select Showtimes:**
 - **Forget Password Function:** Reset your password securely via email in case you forget it.
 
 ### For Administrators:
 - **Managing Promo Codes:** Add, edit, or remove promo codes to offer discounts and special offers to users.
-- **Account Management:** The admin can disable or activate user accounts as needed for security and integrity.
+- **Account Management:** The admin can disable or activate user accounts as needed.
 - **Monitoring Transactions:** Track bookings, payments, and user activities with comprehensive transaction logs.
 - **Content Management:** Update movie listings, add new releases, and manage theater information to keep the platform up-to-date.
 
