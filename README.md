@@ -17,7 +17,7 @@ This project is a full-stack web application designed for movie enthusiasts to b
 
 ## Home Page
 
-The home page of CinemaVerse showcases movies that are now showing, along with a navigation bar at the top to login and register.
+The user will be greeted by the landing page of CinemaVerse which showcases movies that are now showing and coming soon.
 
 <img src="https://github.com/sakeefh/Cinema-E-booking-Website/assets/91638600/993c67b3-b8f2-4a20-954e-0a5ffb7481f4" alt="Home Page" width="500" height="auto">
 
